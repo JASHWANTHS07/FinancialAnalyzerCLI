@@ -32,7 +32,7 @@ A powerful command-line interface tool built with Python for fetching, analyzing
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/JASHWANTHS07/FinancialAnalyzerCLI
    cd financial-analysis-cli
    ```
 
