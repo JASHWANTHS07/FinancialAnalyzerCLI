@@ -164,7 +164,9 @@ Basic accounting consistency checks ensure data quality:
 ### Visualization
 Optional visualization features allow for:
 - Saving ratio trend plots as PNG files using Matplotlib
+- ![alt text](output/TSLA_annual_ratios_trend.png)
 - Displaying simplified trend plots directly in the terminal using Plotext
+- ![alt text](images/plotext_image.png)
 
 ## Dependencies
 
