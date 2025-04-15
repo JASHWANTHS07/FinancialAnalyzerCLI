@@ -81,6 +81,7 @@ python main.py analyze-company AAPL --period annual --years 5 --plot --output-di
 # Analyze Microsoft's quarterly data for 8 quarters with terminal plots
 python main.py analyze-company MSFT --period quarterly --years 8 --term-plot
 ```
+![alt text](images/sample_compaision_table.png)
 
 ### Analyze a Sector
 
